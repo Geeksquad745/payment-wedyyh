@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · HBEaEzzn -->
-## Notification 1/2
-Round: Round 1
-To: odeing@yahoo.com, og_mariana84@hotmail.com
-At: 2026-09-16 19:47:24
-Id: HBEaEzzn
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: ognana71263@yahoo.com, ograalev@aol.com
+At: 2026-09-16 19:47:38
+Id: OxR96igB
